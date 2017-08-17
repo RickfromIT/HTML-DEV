@@ -4,4 +4,8 @@ body{
 }
 h1{
   font-size: 24pt;
+  text-align: center;
+}
+img{
+  text-align: center;
 }
