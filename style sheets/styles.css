@@ -6,6 +6,20 @@ h1{
   font-size: 24pt;
   text-align: center;
 }
-img{
-  text-align: center;
+.main{
+	
+}
+ol{
+	padding-left: 50px;
+	
+}
+li{
+	font-style: italic;
+}
+.center{
+	position: relative;
+	left: 40%;
+}
+.justify{
+	text-align: justify;
 }
