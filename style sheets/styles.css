@@ -1,6 +1,8 @@
 *{
   margin: 0;
   padding: 0;
+/* To show the borders of all the containers - for dev purposes only */
+/*  border: solid 1px black; */
 }
 body{
     font-family: verdana, sans-serif;
@@ -13,9 +15,7 @@ h1{
   font-size: 46pt;
   text-align: center;
 }
-.header{
 
-  }
 .button{
   margin-top: 40px;
 }
@@ -43,4 +43,14 @@ li{
 }
 a{
   text-decoration: none;
+}
+
+.container {
+    padding-top: 40px;
+    width: 500px;
+    clear: both;
+}
+.container input {
+    width: 100%;
+    clear: both;
 }
