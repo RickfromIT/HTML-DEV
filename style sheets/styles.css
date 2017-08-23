@@ -2,7 +2,7 @@ body{
     font-family: verdana, sans-serif;
     font-size: 14pt;
     background-color: #0d88c8;
-      background-image: url("/HTML-DEV/images/cloud.jpg");
+    background-image: url("../images/cloud.jpg");
 }
 h1{
   font-family: "Constantia", serif;
