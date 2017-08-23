@@ -12,6 +12,9 @@ h1{
 .header{
 
   }
+.button{
+  padding left: 5 px;
+}
 .main{
   padding-left: 150px;
   padding-right: 150px;
@@ -29,4 +32,10 @@ li{
 }
 .justify{
 	text-align: justify;
+}
+.mid{
+  text-align: center;
+}
+a{
+  text-decoration: none;
 }
