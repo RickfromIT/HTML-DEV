@@ -1,18 +1,18 @@
 body{
     font-family: verdana, sans-serif;
     font-size: 14pt;
+    background-color: lightblue;
 }
 h1{
-  font-size: 24pt;
+  font-size: 36pt;
   text-align: center;
+  font-weight: bold;
 }
 .header{
-/*  background-color: lightblue; */
-  background-image:url("/images/blue-binary.jpg");
-  background-position: center center;
-  height: 250 px,
-  with: 100%;
-}
+  background-image:url("/HTML-DEV/images/blue.png");
+  width: 1920 px;
+  }
+
 .main{
 
 }
