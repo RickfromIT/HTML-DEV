@@ -1,20 +1,18 @@
 body{
     font-family: verdana, sans-serif;
     font-size: 14pt;
-    background-color: lightblue;
+    background-color: #0d88c8;
 }
 h1{
-  font-size: 36pt;
+  font-size: 46pt;
   text-align: center;
-  font-weight: bold;
 }
 .header{
-  background-image:url("/HTML-DEV/images/blue.png");
-  width: 1920 px;
+  background-image:url("/HTML-DEV/images/blue-binary.jpg");
   }
-
 .main{
-
+  padding-left: 150px;
+  padding-right: 150px;
 }
 ol{
 	padding-left: 50px;
