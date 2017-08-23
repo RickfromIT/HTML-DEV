@@ -2,13 +2,15 @@ body{
     font-family: verdana, sans-serif;
     font-size: 14pt;
     background-color: #0d88c8;
+      background-image: url("/HTML-DEV/images/cloud.jpg");
 }
 h1{
+  font-family: "Constantia", serif;
   font-size: 46pt;
   text-align: center;
 }
 .header{
-  background-image:url("/HTML-DEV/images/blue-binary.jpg");
+
   }
 .main{
   padding-left: 150px;
