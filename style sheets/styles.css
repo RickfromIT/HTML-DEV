@@ -6,12 +6,19 @@ h1{
   font-size: 24pt;
   text-align: center;
 }
+.header{
+/*  background-color: lightblue; */
+  background-image:url("/images/blue-binary.jpg");
+  background-position: center center;
+  height: 250 px,
+  with: 100%;
+}
 .main{
-	
+
 }
 ol{
 	padding-left: 50px;
-	
+
 }
 li{
 	font-style: italic;
