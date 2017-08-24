@@ -17,7 +17,7 @@
 							Enter a new mail address into the database
 						</p>
 						<div class="user">
-							<label>Email Adress</label><br/>
+							<label>Email Address</label><br/>
 							<input type="text" name="new-mail" /><br/>
 							<label>Department</label><br/>
 							<input type="text" name="new-dep"  /><br/>
@@ -29,7 +29,7 @@
 							Edit an existing mail address in the database
 						</p>
 						<div class="user">
-							<label>Email Adress</label><br/>
+							<label>Email Address</label><br/>
 							<input type="text" name="ed-mail" /><br/>
 							<label>Department</label><br/>
 							<input type="text" name="ed-dep"  /><br/>
@@ -41,7 +41,7 @@
 							Search the database for a mail address
 						</p>
 						<div class="user">
-							<label>Email Adress</label><br/>
+							<label>Email Address</label><br/>
 							<input type="text" name="sr-mail" /><br/>
 							<label>Department</label><br/>
 							<input type="text" name="sr-dep"  /><br/>
@@ -53,7 +53,7 @@
 							Delete a mail address from the database
 						</p>
 						<div class="user">
-							<label>Email Adress</label><br/>
+							<label>Email Address</label><br/>
 							<input type="text" name="del-mail" /><br/>
 							</div>
 					</div>
@@ -63,16 +63,33 @@
 								Move an email address to the unsubscribe catagory
 							</p>
 							<div class="user">
-								<label>Email Adress</label><br/>
+								<label>Email Address</label><br/>
 								<input type="text" name="un-mail" /><br/>
 							</div>
 				</div>
+				<div class="catagory">
+						<h2>Undeliverable</h2>
+							<p class="cent">
+							Catagorize a mail address as undeliverable
+						</p>
+						<div class="user">
+							<label>Email Address</label><br/>
+							<input type="text" name="no-dev" /><br/>
+						</div>
 			</div>
-<!--			<div class="catagory">
-				<h2>Generate</h2>
-				<p class="cent">
-					Generate a list of addresses to mail to
-				</p>
-			</div> -->
+				<div class="catagory">
+					<h2>Generate</h2>
+						<p class="cent">
+							Generate a list of reciepiant emial addresses for the news flash
+						</p>
+						<div class="user">
+							<label>Department</label><br/>
+							<input type="text" name="gen-dept" /><br/>
+							<label>No of addresses per file</label><br  />
+							<input type="number" name="list-size" />
+						</div>
+				</div>
+			</div>
+
 	</body>
 </html>

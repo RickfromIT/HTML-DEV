@@ -8,7 +8,7 @@
 body{
     font-family: verdana, sans-serif;
     font-size: 14pt;
-    background-color: #f2e9d7;
+    background-color: #ede0cb;
 }
 
 .header{
@@ -29,10 +29,11 @@ h1{
   font-family: "Constantia", serif;
   font-size: 270%;
   text-align: center;
-  color: #f2e9d7;
+  color: #ebe0cb;
 }
 
 h2{
+  font-family: "Constantia", serif;
   text-align: center;
 }
 
@@ -42,6 +43,7 @@ h2{
 }
 
 .catagory{
+  background-color: #f2eee8;
   vertical-align: top;
   display: inline-block;
   border-radius: 25px;
