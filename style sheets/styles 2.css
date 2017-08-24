@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+/* To show the borders of all the containers - for dev purposes only */
+/*  border: solid 1px black; */
+}
+
+body{
+    font-family: verdana, sans-serif;
+    font-size: 14pt;
+    background-color: #f2e9d7;
+}
+
+.header{
+  background-image: url("../images/header-bg-red.png");
+}
+
+.logo{
+  display: inline-block;
+  float: left;
+  height: 235px;
+  width: auto;
+}
+
+h1{
+  margin-right: 30%;
+  padding-top: 82px;
+  padding-bottom: 82px;
+  font-family: "Constantia", serif;
+  font-size: 46pt;
+  text-align: Right;
+  color: #f2e9d7;
+}
+
+h2{
+  text-align: center;
+}
+
+.catagory{
+  display: inline-block;
+  border-radius: 25px;
+  width: 30%;
+  padding: 10px;
+  margin: 10px;
+  border: solid;
+}
