@@ -13,22 +13,22 @@ body{
 
 .header{
   background-image: url("../images/header-bg-red.png");
-}
+  height: 238px;
+  }
 
 .logo{
-  display: inline-block;
   float: left;
   height: 235px;
   width: auto;
 }
 
 h1{
-  margin-right: 30%;
-  padding-top: 81px;
-  padding-bottom: 81px;
+  line-height: 238px;
+  width: 46%;
+  margin: 0 auto;
   font-family: "Constantia", serif;
-  font-size: 46pt;
-  text-align: Right;
+  font-size: 350%;
+  text-align: center;
   color: #f2e9d7;
 }
 
