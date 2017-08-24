@@ -24,8 +24,8 @@ body{
 
 h1{
   margin-right: 30%;
-  padding-top: 82px;
-  padding-bottom: 82px;
+  padding-top: 81px;
+  padding-bottom: 81px;
   font-family: "Constantia", serif;
   font-size: 46pt;
   text-align: Right;
@@ -36,11 +36,28 @@ h2{
   text-align: center;
 }
 
+.container{
+  padding-top: 5%;
+  text-align: center;
+}
+
 .catagory{
+  vertical-align: top;
   display: inline-block;
   border-radius: 25px;
-  width: 30%;
-  padding: 10px;
-  margin: 10px;
+  width: 250px;
+  height: 250px;
+  padding: 30px;
   border: solid;
+  margin: 20px;
+}
+
+.cent{
+  font-size: 10pt;
+  text-align: center;
+  font-style: italic;
+}
+
+.user{
+  margin: 5%;
 }
