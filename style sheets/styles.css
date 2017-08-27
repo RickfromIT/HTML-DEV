@@ -18,7 +18,9 @@ body{
 
 .logo{
   float: left;
-  height: 235px;
+  padding-left: 11px;
+  padding-top: 11px;
+  height: 215px;
   width: auto;
 }
 
